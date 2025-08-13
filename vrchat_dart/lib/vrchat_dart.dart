@@ -14,3 +14,6 @@ export 'src/convenience/user_extensions.dart';
 
 // streaming
 export 'src/streaming/vrc_streaming.dart';
+
+// encryption
+export 'src/encryption/encrypted_cookie_jar.dart';
